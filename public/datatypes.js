@@ -1,0 +1,12 @@
+"use strict";
+console.log('Hello, TypeScript!');
+let numOne = 5;
+let numTwo = 4;
+let sum = numOne + numTwo;
+console.log(sum);
+let firstName = 'John';
+let secondName = 'Smith';
+console.log('full name is ' + firstName + ' ' + secondName);
+let MyBoolean = true;
+let myArray = [1, 2, 3];
+console.log(myArray);
